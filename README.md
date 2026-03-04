@@ -4,6 +4,8 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
+📄 Report available in: English - Spanish
+
 This project develops an interactive Tableau dashboard to analyze customer churn behavior for a retail bank operating in France, Germany, and Spain.
 
 The objective was to identify high-risk customer segments, understand the drivers behind churn, and provide actionable retention strategies based on demographic, financial, engagement, and geographic patterns.
