@@ -46,4 +46,4 @@ The project simulates a real-world churn analysis scenario where customer profil
 
 Data limitations such as the absence of timestamps (onboarding, churn date, complaint date) and lack of complaint reason codes are documented to ensure realistic interpretation of findings.
 
-Tools Used: Tableau / Customer Segmentation / KPI Development / Churn Analysis / Dashboard Design / Business Strategy Insights
+Tools Used: Tableau / Generative AI / Customer Segmentation / KPI Development / Churn Analysis / Dashboard Design / Business Strategy Insights
